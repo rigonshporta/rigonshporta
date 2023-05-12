@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Rigon Shporta" /></a>
+</p>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28F750&width=435&lines=where+the+love+at%3F)](https://git.io/typing-svg)
 
 
