@@ -1,7 +1,7 @@
 
 <p align="center">
  <a href="https://github.com/rigonshporta">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28F750&width=435&lines=where+the+love+at%3F)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28F750&width=435&lines=where+the+love+at%3F)](https://git.io/typing-svg">
 </a>
   </p>
 
